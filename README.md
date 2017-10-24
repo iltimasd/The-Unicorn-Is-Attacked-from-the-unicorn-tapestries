@@ -14,9 +14,9 @@ How this hack works: Unicornucopia(Uni from here on out) already uses API calls 
 
 [Postman Chrome Plugin][3]
 
-2. Toggle console to except intercepted XHR content
-
 ## 1. Open Uni
+
+## 2. Toggle console to except intercepted XHR content
 
 ![toggleconsole](https://www.getpostman.com/img/v1/docs/interceptor_cookies/interceptor_cookies_1.png)
 
