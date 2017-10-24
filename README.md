@@ -51,14 +51,14 @@ number will appear a query paramater.
 
 ![Edit author numbers](https://raw.githubusercontent.com/iltimasd/The-Unicorn-Is-Attacked-from-the-unicorn-tapestries/master/capture2.PNG "Edit author numbers")
 
-## 7. Edit author body content
+## 7. Edit author and body content
 
 Add the id numbers to author field, edit the body with your idea.
 ## 8. Send!
 
 Hit Send!
 
-You can now change the body content without having to input team members.
+You can now change the body content without having to input team members everytime!
 
 Also you can only add 40 authors, so adding the whole class is hard. 
 Theoretically you coordinate sections. and everyrone in the 40 person section submits 3
