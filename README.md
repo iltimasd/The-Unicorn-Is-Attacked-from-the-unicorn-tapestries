@@ -1,7 +1,7 @@
 # [The Unicorn is Attacked (from the Unicorn Tapestries)][1]
 ## A clunky hack to add peeps to Unicornucopia
 
-![*The Unicorn is Attacked (from the Unicorn Tapestries)*. 1495–1505. Wool warp with wool, silk, silver, and gilt wefts. The Metropolitan Museum of Art, New York.](https://images.metmuseum.org/CRDImages/cl/web-large/DP118985.jpg)
+![*The Unicorn is Attacked (from the Unicorn Tapestries)*. 1495–1505. Wool warp with wool, silk, silver, and gilt wefts. The Metropolitan Museum of Art, New York.](https://images.metmuseum.org/CRDImages/cl/web-large/DP118985.jpg "*The Unicorn is Attacked (from the Unicorn Tapestries)*. 1495–1505. Wool warp with wool, silk, silver, and gilt wefts. The Metropolitan Museum of Art, New York.")
 
 # FULL DISCLOSURE: It's super hack-y, and not really sure how the backend handles badly formated requests, I've already created ideas that have no owners, idk how bad you could mess it up, but hey, what doesnt kill you...
 
@@ -39,18 +39,21 @@ From the side panel select the POST request you just captured. Click on the "Bod
 *the "Header" tab is where your token lives. Uni seems to not use regular headers for Auth, 
 which you can see in the Authorization tab. Check it out*
 
-## 6. Edit author numbers
+![Pull up POST request on console and navigate to Body tab](https://raw.githubusercontent.com/iltimasd/The-Unicorn-Is-Attacked-from-the-unicorn-tapestries/master/capture1.PNG "Pull up POST request on console and navigate to Body tab")
 
-If you thought it was friction-y now...
+## 6. Find author id numbers
 
-So now we actually need the numbers associated with an account.
+*If you thought it was friction-y now...*
+
+So now we actually need the id numbers associated with an account.
 I believe the easiest way is to search and select the user in the sidebar and the author 
 number will appear a query paramater.
 
-## 7. Edit body content
+![Edit author numbers](https://raw.githubusercontent.com/iltimasd/The-Unicorn-Is-Attacked-from-the-unicorn-tapestries/master/capture2.PNG "Edit author numbers")
 
-Now edit the body. This is your idea
+## 7. Edit author body content
 
+Add the id numbers to author field, edit the body with your idea.
 ## 8. Send!
 
 Hit Send!
@@ -61,6 +64,9 @@ Also you can only add 40 authors, so adding the whole class is hard.
 Theoretically you coordinate sections. and everyrone in the 40 person section submits 3
 ideas and then boom, you got 120 ideas attributed to you. It takes some coordination. OR
 you could just continually add the people on your bi-weekly group. in theory, if each team does 10 ideas a week, week 1 is 10 ideas, week 2 is 50 more ideas, and week 3 is more than 50 ideas, boo yah A+
+
+## Save!
+You can save this so now you just change author numbers(or add author number ;)) so you dont have to redo steps 0-4.
 
 [1]:https://www.metmuseum.org/art/collection/search/467639
 [2]:https://www.getpostman.com/apps
