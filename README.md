@@ -8,37 +8,38 @@
 How this hack works: Unicornucopia(Uni from here on out) already uses API calls to submit ideas. All this hack does is intercept XMLHttpRequest and then edit and resend via Postman Console and Postman interceptor. 
 
 
-1. Install the tools. Postman Intercept(plugin). Postman Console.
+## 0. Install the tools. Postman Intercept(plugin). Postman Console.
 
 [Postman Console Link][2]
+
 [Postman Chrome Plugin][3]
 
 2. Toggle console to except intercepted XHR content
 
-0. Open Uni
+## 1. Open Uni
 
 ![toggleconsole](https://www.getpostman.com/img/v1/docs/interceptor_cookies/interceptor_cookies_1.png)
 
-3. Toggle plugin to start intercepting(ideally close all your other tabs)
+## 3. Toggle plugin to start intercepting(ideally close all your other tabs)
 
 ![toggleplugin](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/proxy.interceptExt.png)
 
 You're gonna want to close your other Chrome tabs. Sites like Facebook or Twitter 
 is often making requests, so you might get a lot of noise from these sites.
 
-4. Submit idea on site to capture XHR content
+## 4. Submit idea on site to capture XHR content
 
 This is where we'll actually trigger a request in order to capture it. Specifically 
 we want your tokens and we
 want the JSON format that we can easily edit
 
-5. Pull up POST request on console and navigate to Body tab
+## 5. Pull up POST request on console and navigate to Body tab
 
 From the side panel select the POST request you just captured. Click on the "Body" tab. 
 *the "Header" tab is where your token lives. Uni seems to not use regular headers for Auth, 
 which you can see in the Authorization tab. Check it out*
 
-6. Edit author numbers
+## 6. Edit author numbers
 
 If you thought it was friction-y now...
 
@@ -46,11 +47,11 @@ So now we actually need the numbers associated with an account.
 I believe the easiest way is to search and select the user in the sidebar and the author 
 number will appear a query paramater.
 
-7. Edit body content
+## 7. Edit body content
 
 Now edit the body. This is your idea
 
-8. Send!
+## 8. Send!
 
 Hit Send!
 
