@@ -101,7 +101,7 @@ $ newman run theUniRequest.json --global-var "<body>=<"CLI commands that can eas
 
 - Why are you doing this?
 
-	Maybe read this: link
+	Maybe read [this](#why)
 
 - Why are you making this public?
 
