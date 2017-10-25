@@ -105,7 +105,7 @@ $ newman run theUniRequest.json --global-var "<body>=<"CLI commands that can eas
 
 - Why are you making this public?
 
-	It's imperative to share code in technology-education spaces. The diffence between the academic industrial complex and education is in sharing of resources, tools, and findings, no matter if your the Dean or a first year student, or anyone inbetween and outside.
+	It's imperative to share code in technology-education spaces. The diffence between being a university that pumps out students for the sake of getting $$$ and education is in sharing of resources, tools, and findings, no matter if your the Dean or a first year student, or anyone inbetween and outside. Transparency,Transparency,Transparency.
 
 - Is this a pathetic stab to be a white-hatter and get invited to present at DEFCON?
 
