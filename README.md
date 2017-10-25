@@ -3,6 +3,10 @@
 
 ![*The Unicorn is Attacked (from the Unicorn Tapestries)*. 1495–1505. Wool warp with wool, silk, silver, and gilt wefts. The Metropolitan Museum of Art, New York.](https://images.metmuseum.org/CRDImages/cl/web-large/DP118985.jpg "*The Unicorn is Attacked (from the Unicorn Tapestries)*. 1495–1505. Wool warp with wool, silk, silver, and gilt wefts. The Metropolitan Museum of Art, New York.")
 
+## Table of Contents
+- [Land Narwhal](#a-clunky-hack-to-add-peeps-to-unicornucopia)
+
+
 ## Why?
 
 First and foremost, this is step in a direction to minimize a friction I see in a product. Now usually when a friction occurs, for example when I'm forced to do a 5-minute onboarding for pinterest, I'll usually just drop the service. Unfortunatley, there are some services out there where this isnt a solution, whether it's seeing hate speech on platform(twitter) that also aided in a people's movement to take back the goverment OR having to do repetitive tasks to accomplish one action on a platform(uni) that I'm required to use. In these cases, I try to seek interventions I can from a civilian level. Second, as a design technologist, I'm interested both in seeing what make platforms tick, and what makes platforms tick that make users tick. So this is also a sort of investigation in that. Additionally, as a student of design AND technology, I'm interested in what it means to use technology, in this case a social media platform, in the effort to learn technology; I'm interested in interagating what it means when we use systems, like gamification, in pedagogy, and what that does to the learning experience. I hope these ideas interest you too <3 
