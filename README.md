@@ -9,8 +9,8 @@
 - [Why?](#why)
 - [DISCLOSURE](#full-disclosure-its-super-hack-y-and-not-really-sure-how-the-backend-handles-badly-formated-requests-ive-already-created-ideas-that-have-no-owners-idk-how-bad-you-could-mess-it-up-but-hey-what-doesnt-kill-you)
 - [The Actual Thing](#how-to)
-- [What I Actually Want The Acutual Thing to Actually be, Actually](#Next-Steps)
-- [FAQ](#FAQ)
+- [What I Actually Want The Acutual Thing to Actually be, Actually](#next-steps)
+- [FAQ](#faq)
 
 ## Why?
 
